@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Poovt
+- 👋 Hi, I’m Pooja
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning fullstack
 - 💞️ I’m looking to collaborate on new projects
